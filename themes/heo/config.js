@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '点我教你0元0基础搭建与本站一模一样的网站', url: 'https://ipoodle.top' },
+    { title: '点我玩个游戏放松一下吧', url: 'https://ipoodle.top' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,12 +18,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '分享云盘资源',
+  HEO_HERO_TITLE_2: '与课程教程',
+  HEO_HERO_TITLE_3: 'isharehubs.com',
+  HEO_HERO_TITLE_4: '资源推荐',
+  HEO_HERO_TITLE_5: '最新推荐资源',
+  HEO_HERO_TITLE_LINK: 'https://isharehubs.com/',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
