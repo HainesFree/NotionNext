@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享云盘资源',
-  HEO_HERO_TITLE_2: '与课程教程',
+  HEO_HERO_TITLE_2: '与视频教程',
   HEO_HERO_TITLE_3: 'isharehubs.com',
   HEO_HERO_TITLE_4: '资源推荐',
   HEO_HERO_TITLE_5: '最新推荐资源',
