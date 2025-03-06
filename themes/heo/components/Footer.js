@@ -38,7 +38,9 @@ const Footer = () => {
               className='underline font-semibold dark:text-gray-300 '>
               {siteConfig('AUTHOR')}
             </a>
-            {BIO && <span className='mx-1'> | {BIO}</span>}
+            {BIO && <span className='mx-1'>
+                  <span>本站所有资源收集整理于网络,本站不参与制作,用于互联网爱好者学习和研究,如不慎侵犯了您的权利,请及时联系站长处理删除。敬请谅解！ 侵权删帖/违法举报/投稿等联系邮箱（#替换成@）：entrepreneurchief#hotmail.com</span>  
+               | {BIO}</span>}
           </div>
         </div>
 
